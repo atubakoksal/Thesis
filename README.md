@@ -1,4 +1,4 @@
-exctracthtml.py: turns html PubMed articles into txt files while turning abbreviations into their long forms  
+exctracthtml.py: turns html PubMed articles into txt files while also turning abbreviations into their long forms  
 depwithPOS.py: merges Stanford POS tags and dependencies outputted by Stanford CoreNLP toolkit   
 converter.py: changes Stanford dependencies into our dependency representation  
 semantics.py: outputs semantic labels of comparative sentences  
