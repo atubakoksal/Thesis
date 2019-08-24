@@ -1,0 +1,39 @@
+Jill is more competent in badminton than Harry.
+Who can imagine that I think John is more intelligent than Harry.
+John is more intelligent than Harry.
+John is taller than Harry.
+John was wiser in chess than in mess.
+John had been quicker in chess than in mess.
+John is more skillful in chess than in mess.
+Smoking is more dangerous in cancer patients than in flu patients.
+Jill is taller than her twin sister.
+Serious adverse events were more common with Gabapentin than with placebo.
+Positive effects were more common with Gabapentin than side effects.
+In New York, thunderstorm is more likely than in Boston.
+In New York, thunderstorm is more likely in winter than in summer.
+She is more talented in this field than him.
+In summer, thunderstorm is more likely than in winter.
+In chess, John was wiser than in mess.
+John is not much taller than Harry.
+A storm is not much more likely in Ankara than in Istanbul.
+John is less tall than Harry.
+John is not less tall than Harry.
+I think that John is taller than Harry.
+I think that John is more intelligent in chess than in bridge.
+I think that John is not much more intelligent in chess than in bridge.
+Jill is a better student in chess than in bridge.
+Jill is a better student than Harry.
+Jill is not a much better student than Harry.
+Jill is a much better student than Harry.
+Jill is a more intelligent student than Harry.
+Jill is a more intelligent student in chess than Harry. 
+Jill is not a much more intelligent student in chess than Harry. 
+She is a better player of chess than of bridge.
+John is a better player of tennis than Harry.
+In my opinion, John is a better player of tennis than of badminton.
+In my opinion, John is a better player of tennis than Harry.
+John is not much better at tennis than at badminton.
+He says that John is not much better at tennis than at badminton.
+They think John is not much better at tennis than at badminton.
+They think John is not much better at tennis than Harry.
+

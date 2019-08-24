@@ -1,0 +1,579 @@
+Jill is more competent in badminton than Harry .
+ None 0.0 ROOT
+	 root 4.0 competent
+		 cop 2.0 is
+		 advmod 3.0 more
+			 Ccomp1 8.0 Harry
+				 case 7.0 than
+		 nmod:in 6.0 badminton
+			 case 5.0 in
+		 punct 9.0 .
+		 nsubj 1.0 Jill
+{'standard': 'Harry', 'target': 'Jill', 'dimension': 'competent', 'direction': 'more'}
+------------------------------
+Who can imagine that I think John is more intelligent than Harry .
+ None 0.0 ROOT
+	 root 3.0 imagine
+		 aux 2.0 can
+		 ccomp 6.0 think
+			 nsubj 5.0 I
+			 ccomp 10.0 intelligent
+				 cop 8.0 is
+				 advmod 9.0 more
+					 Ccomp1 12.0 Harry
+						 case 11.0 than
+				 nsubj 7.0 John
+			 mark 4.0 that
+		 punct 13.0 .
+		 nsubj 1.0 Who
+{'standard': 'Harry', 'target': 'John', 'dimension': 'intelligent', 'direction': 'more'}
+------------------------------
+John is more intelligent than Harry .
+ None 0.0 ROOT
+	 root 4.0 intelligent
+		 cop 2.0 is
+		 advmod 3.0 more
+			 Ccomp1 6.0 Harry
+				 case 5.0 than
+		 punct 7.0 .
+		 nsubj 1.0 John
+{'standard': 'Harry', 'target': 'John', 'dimension': 'intelligent', 'direction': 'more'}
+------------------------------
+John is taller than Harry .
+ None 0.0 ROOT
+	 root 3.0 taller
+		 cop 2.0 is
+		 advmod 2.5 more
+			 Ccomp1 5.0 Harry
+				 case 4.0 than
+		 punct 6.0 .
+		 nsubj 1.0 John
+{'standard': 'Harry', 'target': 'John', 'dimension': 'taller', 'direction': 'more'}
+------------------------------
+John was wiser in chess than in mess .
+ None 0.0 ROOT
+	 root 3.0 wiser
+		 cop 2.0 was
+		 advmod 2.5 more
+			 Ccomp1 8.0 mess
+				 case 7.0 in
+				 case 6.0 than
+			 Ccomp2 5.0 chess
+				 case 4.0 in
+		 punct 9.0 .
+		 nsubj 1.0 John
+{'standard': 'in mess', 'target': 'in chess', 'frame:': 'John', 'dimension': 'wiser', 'direction': 'more'}
+------------------------------
+John had been quicker in chess than in mess .
+ None 0.0 ROOT
+	 root 4.0 quicker
+		 aux 2.0 had
+		 cop 3.0 been
+		 advmod 3.5 more
+			 Ccomp1 9.0 mess
+				 case 8.0 in
+				 case 7.0 than
+			 Ccomp2 6.0 chess
+				 case 5.0 in
+		 punct 10.0 .
+		 nsubj 1.0 John
+{'standard': 'in mess', 'target': 'in chess', 'frame:': 'John', 'dimension': 'quicker', 'direction': 'more'}
+------------------------------
+John is more skillful in chess than in mess .
+ None 0.0 ROOT
+	 root 4.0 skillful
+		 cop 2.0 is
+		 advmod 3.0 more
+			 Ccomp1 9.0 mess
+				 case 8.0 in
+				 case 7.0 than
+			 Ccomp2 6.0 chess
+				 case 5.0 in
+		 punct 10.0 .
+		 nsubj 1.0 John
+{'standard': 'in mess', 'target': 'in chess', 'frame:': 'John', 'dimension': 'skillful', 'direction': 'more'}
+------------------------------
+Smoking is more dangerous in cancer patients than in flu patients .
+ None 0.0 ROOT
+	 root 4.0 dangerous
+		 cop 2.0 is
+		 advmod 3.0 more
+			 Ccomp1 11.0 patients
+				 case 9.0 in
+				 compound 10.0 flu
+				 case 8.0 than
+			 Ccomp2 7.0 patients
+				 compound 6.0 cancer
+				 case 5.0 in
+		 punct 12.0 .
+		 nsubj 1.0 Smoking
+{'standard': 'in flu patients', 'target': 'in cancer patients', 'frame:': 'Smoking', 'dimension': 'dangerous', 'direction': 'more'}
+------------------------------
+Jill is taller than her twin sister .
+ None 0.0 ROOT
+	 root 3.0 taller
+		 cop 2.0 is
+		 advmod 2.5 more
+			 Ccomp1 7.0 sister
+				 nmod:poss 5.0 her
+				 compound 6.0 twin
+				 case 4.0 than
+		 punct 8.0 .
+		 nsubj 1.0 Jill
+{'standard': 'her twin sister', 'target': 'Jill', 'dimension': 'taller', 'direction': 'more'}
+------------------------------
+Serious adverse events were more common with Gabapentin than with placebo .
+ None 0.0 ROOT
+	 root 6.0 common
+		 cop 4.0 were
+		 advmod 5.0 more
+			 Ccomp1 11.0 placebo
+				 case 10.0 with
+				 case 9.0 than
+			 Ccomp2 8.0 Gabapentin
+				 case 7.0 with
+		 punct 12.0 .
+		 nsubj 3.0 events
+			 amod 2.0 adverse
+			 amod 1.0 Serious
+{'standard': 'with placebo', 'target': 'with Gabapentin', 'frame:': 'Serious adverse events', 'dimension': 'common', 'direction': 'more'}
+------------------------------
+Positive effects were more common with Gabapentin than side effects .
+ None 0.0 ROOT
+	 root 5.0 common
+		 cop 3.0 were
+		 advmod 4.0 more
+			 Ccomp1 10.0 effects
+				 amod 9.0 side
+				 case 8.0 than
+		 nmod:with 7.0 Gabapentin
+			 case 6.0 with
+		 punct 11.0 .
+		 nsubj 2.0 effects
+			 amod 1.0 Positive
+{'standard': 'side effects', 'target': 'Positive effects', 'dimension': 'common', 'direction': 'more'}
+------------------------------
+In New York , thunderstorm is more likely than in Boston .
+ None 0.0 ROOT
+	 root 8.0 likely
+		 punct 4.0 ,
+		 nsubj 5.0 thunderstorm
+		 cop 6.0 is
+		 advmod 7.0 more
+			 Ccomp1 11.0 Boston
+				 case 10.0 in
+				 case 9.0 than
+			 Ccomp2 3.0 York
+				 compound 2.0 New
+				 case 1.0 In
+		 punct 12.0 .
+{'standard': 'in Boston', 'target': 'In New York', 'frame:': 'thunderstorm', 'dimension': 'likely', 'direction': 'more'}
+------------------------------
+In New York , thunderstorm is more likely in winter than in summer .
+ None 0.0 ROOT
+	 root 8.0 likely
+		 punct 4.0 ,
+		 nsubj 5.0 thunderstorm
+		 cop 6.0 is
+		 advmod 7.0 more
+			 Ccomp1 13.0 summer
+				 case 12.0 in
+				 case 11.0 than
+			 Ccomp2 10.0 winter
+				 case 9.0 in
+		 punct 14.0 .
+		 nmod:in 3.0 York
+			 compound 2.0 New
+			 case 1.0 In
+{'standard': 'in summer', 'target': 'in winter', 'frame:': 'thunderstorm', 'dimension': 'likely', 'direction': 'more'}
+------------------------------
+She is more talented in this field than him .
+ None 0.0 ROOT
+	 root 4.0 talented
+		 cop 2.0 is
+		 advmod 3.0 more
+			 Ccomp1 9.0 him
+				 case 8.0 than
+		 nmod:in 7.0 field
+			 det 6.0 this
+			 case 5.0 in
+		 punct 10.0 .
+		 nsubj 1.0 She
+{'standard': 'him', 'target': 'She', 'dimension': 'talented', 'direction': 'more'}
+------------------------------
+In summer , thunderstorm is more likely than in winter .
+ None 0.0 ROOT
+	 root 7.0 likely
+		 punct 3.0 ,
+		 nsubj 4.0 thunderstorm
+		 cop 5.0 is
+		 advmod 6.0 more
+			 Ccomp1 10.0 winter
+				 case 9.0 in
+				 case 8.0 than
+			 Ccomp2 2.0 summer
+				 case 1.0 In
+		 punct 11.0 .
+{'standard': 'in winter', 'target': 'In summer', 'frame:': 'thunderstorm', 'dimension': 'likely', 'direction': 'more'}
+------------------------------
+In chess , John was wiser than in mess .
+ None 0.0 ROOT
+	 root 6.0 wiser
+		 punct 3.0 ,
+		 nsubj 4.0 John
+		 cop 5.0 was
+		 advmod 5.5 more
+			 Ccomp1 9.0 mess
+				 case 8.0 in
+				 case 7.0 than
+			 Ccomp2 2.0 chess
+				 case 1.0 In
+		 punct 10.0 .
+{'standard': 'in mess', 'target': 'In chess', 'frame:': 'John', 'dimension': 'wiser', 'direction': 'more'}
+------------------------------
+John is not much taller than Harry .
+ None 0.0 ROOT
+	 root 5.0 taller
+		 cop 2.0 is
+		 neg 3.0 not
+		 advmod 4.0 much
+		 advmod 4.5 more
+			 Ccomp1 7.0 Harry
+				 case 6.0 than
+		 punct 8.0 .
+		 nsubj 1.0 John
+{'standard': 'Harry', 'target': 'John', 'dimension': 'taller', 'direction': 'NOT more'}
+------------------------------
+A storm is not much more likely in Ankara than in Istanbul .
+ None 0.0 ROOT
+	 root 7.0 likely
+		 cop 3.0 is
+		 neg 4.0 not
+		 advmod 6.0 more
+			 Ccomp2 9.0 Ankara
+				 case 8.0 in
+			 Ccomp1 12.0 Istanbul
+				 case 11.0 in
+				 case 10.0 than
+			 advmod 5.0 much
+		 punct 13.0 .
+		 nsubj 2.0 storm
+			 det 1.0 A
+{'standard': 'in Istanbul', 'target': 'in Ankara', 'frame:': 'A storm', 'dimension': 'likely', 'direction': 'NOT more'}
+------------------------------
+John is less tall than Harry .
+ None 0.0 ROOT
+	 root 4.0 tall
+		 cop 2.0 is
+		 advmod 3.0 less
+			 Ccomp1 6.0 Harry
+				 case 5.0 than
+		 punct 7.0 .
+		 nsubj 1.0 John
+{'standard': 'Harry', 'target': 'John', 'dimension': 'tall', 'direction': 'less'}
+------------------------------
+John is not less tall than Harry .
+ None 0.0 ROOT
+	 root 5.0 tall
+		 cop 2.0 is
+		 neg 3.0 not
+		 advmod 4.0 less
+			 Ccomp1 7.0 Harry
+				 case 6.0 than
+		 punct 8.0 .
+		 nsubj 1.0 John
+{'standard': 'Harry', 'target': 'John', 'dimension': 'tall', 'direction': 'NOT less'}
+------------------------------
+I think that John is taller than Harry .
+ None 0.0 ROOT
+	 root 2.0 think
+		 ccomp 6.0 taller
+			 nsubj 4.0 John
+			 cop 5.0 is
+			 advmod 5.5 more
+				 Ccomp1 8.0 Harry
+					 case 7.0 than
+			 mark 3.0 that
+		 punct 9.0 .
+		 nsubj 1.0 I
+{'standard': 'Harry', 'target': 'John', 'dimension': 'taller', 'direction': 'more'}
+------------------------------
+I think that John is more intelligent in chess than in bridge .
+ None 0.0 ROOT
+	 root 2.0 think
+		 ccomp 7.0 intelligent
+			 nsubj 4.0 John
+			 cop 5.0 is
+			 advmod 6.0 more
+				 Ccomp1 12.0 bridge
+					 case 11.0 in
+					 case 10.0 than
+				 Ccomp2 9.0 chess
+					 case 8.0 in
+			 mark 3.0 that
+		 punct 13.0 .
+		 nsubj 1.0 I
+{'standard': 'in bridge', 'target': 'in chess', 'frame:': 'John', 'dimension': 'intelligent', 'direction': 'more'}
+------------------------------
+I think that John is not much more intelligent in chess than in bridge .
+ None 0.0 ROOT
+	 root 2.0 think
+		 ccomp 9.0 intelligent
+			 nsubj 4.0 John
+			 cop 5.0 is
+			 neg 6.0 not
+			 advmod 8.0 more
+				 Ccomp2 11.0 chess
+					 case 10.0 in
+				 Ccomp1 14.0 bridge
+					 case 13.0 in
+					 case 12.0 than
+				 advmod 7.0 much
+			 mark 3.0 that
+		 punct 15.0 .
+		 nsubj 1.0 I
+{'standard': 'in bridge', 'target': 'in chess', 'frame:': 'John', 'dimension': 'intelligent', 'direction': 'NOT more'}
+------------------------------
+Jill is a better student in chess than in bridge .
+ None 0.0 ROOT
+	 root 5.0 student
+		 cop 2.0 is
+		 det 3.0 a
+		 amod 4.0 better
+			 advmod 3.5 more
+				 Ccomp1 10.0 bridge
+					 case 9.0 in
+					 case 8.0 than
+				 Ccomp2 7.0 chess
+					 case 6.0 in
+		 punct 11.0 .
+		 nsubj 1.0 Jill
+{'standard': 'in bridge', 'target': 'in chess', 'frame:': 'Jill', 'dimension': 'better student', 'direction': 'more'}
+------------------------------
+Jill is a better student than Harry .
+ None 0.0 ROOT
+	 root 5.0 student
+		 cop 2.0 is
+		 det 3.0 a
+		 amod 4.0 better
+			 advmod 3.5 more
+				 Ccomp1 7.0 Harry
+					 case 6.0 than
+		 punct 8.0 .
+		 nsubj 1.0 Jill
+{'standard': 'Harry', 'target': 'Jill', 'dimension': 'better student', 'direction': 'more'}
+------------------------------
+Jill is not a much better student than Harry .
+ None 0.0 ROOT
+	 root 7.0 student
+		 cop 2.0 is
+		 neg 3.0 not
+		 det 4.0 a
+		 amod 6.0 better
+			 advmod 5.5 more
+				 Ccomp1 9.0 Harry
+					 case 8.0 than
+			 advmod 5.0 much
+		 punct 10.0 .
+		 nsubj 1.0 Jill
+{'standard': 'Harry', 'target': 'Jill', 'dimension': 'better student', 'direction': 'NOT more'}
+------------------------------
+Jill is a much better student than Harry .
+ None 0.0 ROOT
+	 root 6.0 student
+		 cop 2.0 is
+		 det 3.0 a
+		 amod 5.0 better
+			 advmod 4.5 more
+				 Ccomp1 8.0 Harry
+					 case 7.0 than
+			 advmod 4.0 much
+		 punct 9.0 .
+		 nsubj 1.0 Jill
+{'standard': 'Harry', 'target': 'Jill', 'dimension': 'better student', 'direction': 'more'}
+------------------------------
+Jill is a more intelligent student than Harry .
+ None 0.0 ROOT
+	 root 6.0 student
+		 cop 2.0 is
+		 det 3.0 a
+		 amod 5.0 intelligent
+			 advmod 4.0 more
+				 Ccomp1 8.0 Harry
+					 case 7.0 than
+		 punct 9.0 .
+		 nsubj 1.0 Jill
+{'standard': 'Harry', 'target': 'Jill', 'dimension': 'intelligent student', 'direction': 'more'}
+------------------------------
+Jill is a more intelligent student in chess than Harry .
+ None 0.0 ROOT
+	 root 6.0 student
+		 cop 2.0 is
+		 det 3.0 a
+		 amod 5.0 intelligent
+			 advmod 4.0 more
+				 Ccomp1 10.0 Harry
+					 case 9.0 than
+		 nmod:in 8.0 chess
+			 case 7.0 in
+		 punct 11.0 .
+		 nsubj 1.0 Jill
+{'standard': 'Harry', 'target': 'Jill', 'dimension': 'intelligent student', 'direction': 'more'}
+------------------------------
+Jill is not a much more intelligent student in chess than Harry .
+ None 0.0 ROOT
+	 root 8.0 student
+		 cop 2.0 is
+		 neg 3.0 not
+		 det 4.0 a
+		 amod 7.0 intelligent
+			 advmod 6.0 more
+				 Ccomp1 12.0 Harry
+					 case 11.0 than
+				 advmod 5.0 much
+		 nmod:in 10.0 chess
+			 case 9.0 in
+		 punct 13.0 .
+		 nsubj 1.0 Jill
+{'standard': 'Harry', 'target': 'Jill', 'dimension': 'intelligent student', 'direction': 'NOT more'}
+------------------------------
+She is a better player of chess than of bridge .
+ None 0.0 ROOT
+	 root 5.0 player
+		 cop 2.0 is
+		 det 3.0 a
+		 amod 4.0 better
+			 advmod 3.5 more
+				 Ccomp1 10.0 bridge
+					 case 9.0 of
+					 case 8.0 than
+				 Ccomp2 7.0 chess
+					 case 6.0 of
+		 punct 11.0 .
+		 nsubj 1.0 She
+{'standard': 'of bridge', 'target': 'of chess', 'frame:': 'She', 'dimension': 'better player', 'direction': 'more'}
+------------------------------
+John is a better player of tennis than Harry .
+ None 0.0 ROOT
+	 root 5.0 player
+		 cop 2.0 is
+		 det 3.0 a
+		 amod 4.0 better
+			 advmod 3.5 more
+				 Ccomp1 9.0 Harry
+					 case 8.0 than
+		 nmod:of 7.0 tennis
+			 case 6.0 of
+		 punct 10.0 .
+		 nsubj 1.0 John
+{'standard': 'Harry', 'target': 'John', 'dimension': 'better player', 'direction': 'more'}
+------------------------------
+In my opinion , John is a better player of tennis than of badminton .
+ None 0.0 ROOT
+	 root 9.0 player
+		 punct 4.0 ,
+		 nsubj 5.0 John
+		 cop 6.0 is
+		 det 7.0 a
+		 amod 8.0 better
+			 advmod 7.5 more
+				 Ccomp1 14.0 badminton
+					 case 13.0 of
+					 case 12.0 than
+				 Ccomp2 11.0 tennis
+					 case 10.0 of
+		 punct 15.0 .
+		 nmod:in 3.0 opinion
+			 nmod:poss 2.0 my
+			 case 1.0 In
+{'standard': 'of badminton', 'target': 'of tennis', 'frame:': 'John', 'dimension': 'better player', 'direction': 'more'}
+------------------------------
+In my opinion , John is a better player of tennis than Harry .
+ None 0.0 ROOT
+	 root 9.0 player
+		 punct 4.0 ,
+		 nsubj 5.0 John
+		 cop 6.0 is
+		 det 7.0 a
+		 amod 8.0 better
+			 advmod 7.5 more
+				 Ccomp1 13.0 Harry
+					 case 12.0 than
+		 nmod:of 11.0 tennis
+			 case 10.0 of
+		 punct 14.0 .
+		 nmod:in 3.0 opinion
+			 nmod:poss 2.0 my
+			 case 1.0 In
+{'standard': 'Harry', 'target': 'John', 'dimension': 'better player', 'direction': 'more'}
+------------------------------
+John is not much better at tennis than at badminton .
+ None 0.0 ROOT
+	 root 5.0 better
+		 cop 2.0 is
+		 neg 3.0 not
+		 advmod 4.0 much
+		 advmod 4.5 more
+			 Ccomp1 10.0 badminton
+				 case 9.0 at
+				 case 8.0 than
+			 Ccomp2 7.0 tennis
+				 case 6.0 at
+		 punct 11.0 .
+		 nsubj 1.0 John
+{'standard': 'at badminton', 'target': 'at tennis', 'frame:': 'John', 'dimension': 'better', 'direction': 'NOT more'}
+------------------------------
+He says that John is not much better at tennis than at badminton .
+ None 0.0 ROOT
+	 root 2.0 says
+		 ccomp 8.0 better
+			 nsubj 4.0 John
+			 cop 5.0 is
+			 neg 6.0 not
+			 advmod 7.0 much
+			 advmod 7.5 more
+				 Ccomp1 13.0 badminton
+					 case 12.0 at
+					 case 11.0 than
+				 Ccomp2 10.0 tennis
+					 case 9.0 at
+			 mark 3.0 that
+		 punct 14.0 .
+		 nsubj 1.0 He
+{'standard': 'at badminton', 'target': 'at tennis', 'frame:': 'John', 'dimension': 'better', 'direction': 'NOT more'}
+------------------------------
+They think John is not much better at tennis than at badminton .
+ None 0.0 ROOT
+	 root 2.0 think
+		 ccomp 7.0 better
+			 cop 4.0 is
+			 neg 5.0 not
+			 advmod 6.0 much
+			 advmod 6.5 more
+				 Ccomp1 12.0 badminton
+					 case 11.0 at
+					 case 10.0 than
+				 Ccomp2 9.0 tennis
+					 case 8.0 at
+			 nsubj 3.0 John
+		 punct 13.0 .
+		 nsubj 1.0 They
+{'standard': 'at badminton', 'target': 'at tennis', 'frame:': 'John', 'dimension': 'better', 'direction': 'NOT more'}
+------------------------------
+They think John is not much better at tennis than Harry .
+ None 0.0 ROOT
+	 root 2.0 think
+		 ccomp 7.0 better
+			 cop 4.0 is
+			 neg 5.0 not
+			 advmod 6.0 much
+			 advmod 6.5 more
+				 Ccomp1 11.0 Harry
+					 case 10.0 than
+			 nmod:at 9.0 tennis
+				 case 8.0 at
+			 nsubj 3.0 John
+		 punct 12.0 .
+		 nsubj 1.0 They
+{'standard': 'Harry', 'target': 'John', 'dimension': 'better', 'direction': 'NOT more'}
+------------------------------

@@ -1,0 +1,421 @@
+The refluxate may be more acidic than the intragastric content .
+ None 0.0 ROOT
+	 root 6.0 acidic
+		 aux 3.0 may
+		 cop 4.0 be
+		 advmod 5.0 more
+			 Ccomp1 10.0 content
+				 det 8.0 the
+				 amod 9.0 intragastric
+				 case 7.0 than
+		 punct 11.0 .
+		 nsubj 2.0 refluxate
+			 det 1.0 The
+{'standard': 'the intragastric content', 'target': 'The refluxate', 'dimension': 'acidic', 'direction': 'more'}
+------------------------------
+Body mass index was significantly lower in the laparoscopic Nissen fundoplication group than in the PPI group .
+ None 0.0 ROOT
+	 root 6.0 lower
+		 cop 4.0 was
+		 advmod 5.0 significantly
+		 advmod 5.5 more
+			 Ccomp1 17.0 group
+				 case 14.0 in
+				 det 15.0 the
+				 compound 16.0 PPI
+				 case 13.0 than
+			 Ccomp2 12.0 group
+				 det 8.0 the
+				 amod 9.0 laparoscopic
+				 compound 10.0 Nissen
+				 compound 11.0 fundoplication
+				 case 7.0 in
+		 punct 18.0 .
+		 nsubj 3.0 index
+			 compound 2.0 mass
+			 compound 1.0 Body
+{'standard': 'in the PPI group', 'target': 'in the laparoscopic Nissen fundoplication group', 'frame:': 'Body mass index', 'dimension': 'lower', 'direction': 'more'}
+------------------------------
+By doing so , the number of disease genes per family will be much greater than the number of genes per disease .
+ None 0.0 ROOT
+	 root 15.0 greater
+		 punct 4.0 ,
+		 nsubj 6.0 number
+			 nmod:of 9.0 genes
+				 compound 8.0 disease
+				 nmod:per 11.0 family
+					 case 10.0 per
+				 case 7.0 of
+			 det 5.0 the
+		 aux 12.0 will
+		 cop 13.0 be
+		 advmod 14.0 much
+		 advmod 14.5 more
+			 Ccomp1 18.0 number
+				 det 17.0 the
+				 nmod:of 20.0 genes
+					 nmod:per 22.0 disease
+						 case 21.0 per
+					 case 19.0 of
+				 case 16.0 than
+		 punct 23.0 .
+		 advcl:by 2.0 doing
+			 advmod 3.0 so
+			 mark 1.0 By
+{'standard': 'the number of genes per disease', 'target': 'the number of disease genes per family', 'dimension': 'greater', 'direction': 'more'}
+------------------------------
+It seems counter intuitive that the protein-protein interaction was more informative than the pathway network .
+ None 0.0 ROOT
+	 root 2.0 seems
+		 xcomp 4.0 intuitive
+			 advmod 3.0 counter
+		 ccomp 11.0 informative
+			 nsubj 8.0 interaction
+				 amod 7.0 protein-protein
+				 det 6.0 the
+			 cop 9.0 was
+			 advmod 10.0 more
+				 Ccomp1 15.0 network
+					 det 13.0 the
+					 compound 14.0 pathway
+					 case 12.0 than
+			 mark 5.0 that
+		 punct 16.0 .
+		 nsubj 1.0 It
+{'standard': 'the pathway network', 'target': 'the protein-protein interaction', 'dimension': 'informative', 'direction': 'more'}
+------------------------------
+It was found that quality of protein interaction data was more important than its volume .
+ None 0.0 ROOT
+	 root 3.0 found
+		 auxpass 2.0 was
+		 ccomp 12.0 important
+			 nsubj 5.0 quality
+				 nmod:of 9.0 data
+					 compound 7.0 protein
+					 compound 8.0 interaction
+					 case 6.0 of
+			 cop 10.0 was
+			 advmod 11.0 more
+				 Ccomp1 15.0 volume
+					 nmod:poss 14.0 its
+					 case 13.0 than
+			 mark 4.0 that
+		 punct 16.0 .
+		 nsubjpass 1.0 It
+{'standard': 'its volume', 'target': 'quality of protein interaction data', 'dimension': 'important', 'direction': 'more'}
+------------------------------
+The fatality of suicide attempts is also higher in bd than in the general population .
+ None 0.0 ROOT
+	 root 8.0 higher
+		 cop 6.0 is
+		 advmod 7.0 also
+		 advmod 7.5 more
+			 Ccomp1 15.0 population
+				 case 12.0 in
+				 det 13.0 the
+				 amod 14.0 general
+				 case 11.0 than
+			 Ccomp2 10.0 bd
+				 case 9.0 in
+		 punct 16.0 .
+		 nsubj 2.0 fatality
+			 nmod:of 5.0 attempts
+				 compound 4.0 suicide
+				 case 3.0 of
+			 det 1.0 The
+{'standard': 'in the general population', 'target': 'in bd', 'frame:': 'The fatality of suicide attempts', 'dimension': 'higher', 'direction': 'more'}
+------------------------------
+The results showed that our strategy was more advantageous than the hypergeometric distribution method .
+ None 0.0 ROOT
+	 root 3.0 showed
+		 ccomp 9.0 advantageous
+			 nsubj 6.0 strategy
+				 nmod:poss 5.0 our
+			 cop 7.0 was
+			 advmod 8.0 more
+				 Ccomp1 14.0 method
+					 det 11.0 the
+					 amod 12.0 hypergeometric
+					 compound 13.0 distribution
+					 case 10.0 than
+			 mark 4.0 that
+		 punct 15.0 .
+		 nsubj 2.0 results
+			 det 1.0 The
+{'standard': 'the hypergeometric distribution method', 'target': 'our strategy', 'dimension': 'advantageous', 'direction': 'more'}
+------------------------------
+Recently , it has been suggested that sc precursors may be more beneficial than scs from newborn rodents .
+ None 0.0 ROOT
+	 root 6.0 suggested
+		 punct 2.0 ,
+		 nsubjpass 3.0 it
+		 aux 4.0 has
+		 auxpass 5.0 been
+		 ccomp 13.0 beneficial
+			 nsubj 9.0 precursors
+				 compound 8.0 sc
+			 aux 10.0 may
+			 cop 11.0 be
+			 advmod 12.0 more
+				 Ccomp1 15.0 scs
+					 nmod:from 18.0 rodents
+						 amod 17.0 newborn
+						 case 16.0 from
+					 case 14.0 than
+			 mark 7.0 that
+		 punct 19.0 .
+		 advmod 1.0 Recently
+{'standard': 'scs from newborn rodents', 'target': 'sc precursors', 'dimension': 'beneficial', 'direction': 'more'}
+------------------------------
+These estimates of efficacy are more conservative than those reported in a previous review .
+ None 0.0 ROOT
+	 root 7.0 conservative
+		 cop 5.0 are
+		 advmod 6.0 more
+			 Ccomp1 9.0 those
+				 acl 10.0 reported
+					 nmod:in 14.0 review
+						 det 12.0 a
+						 amod 13.0 previous
+						 case 11.0 in
+				 case 8.0 than
+		 punct 15.0 .
+		 nsubj 2.0 estimates
+			 nmod:of 4.0 efficacy
+				 case 3.0 of
+			 det 1.0 These
+{'standard': 'those reported in a previous review', 'target': 'These estimates of efficacy', 'dimension': 'conservative', 'direction': 'more'}
+------------------------------
+The size of the gap in the cord is also larger at this stage than at all other stages .
+ None 0.0 ROOT
+	 root 11.0 larger
+		 cop 9.0 is
+		 advmod 10.0 also
+		 advmod 10.5 more
+			 Ccomp1 19.0 stages
+				 case 16.0 at
+				 det 17.0 all
+				 amod 18.0 other
+				 case 15.0 than
+			 Ccomp2 14.0 stage
+				 det 13.0 this
+				 case 12.0 at
+		 punct 20.0 .
+		 nsubj 2.0 size
+			 nmod:of 5.0 gap
+				 det 4.0 the
+				 nmod:in 8.0 cord
+					 det 7.0 the
+					 case 6.0 in
+				 case 3.0 of
+			 det 1.0 The
+{'standard': 'at all other stages', 'target': 'at this stage', 'frame:': 'The size of the gap in the cord', 'dimension': 'larger', 'direction': 'more'}
+------------------------------
+Studies in rat models revealed that escitalopram was less effective than fluoxetine in reducing withdrawal symptoms .
+ None 0.0 ROOT
+	 root 5.0 revealed
+		 ccomp 10.0 effective
+			 nsubj 7.0 escitalopram
+			 cop 8.0 was
+			 advmod 9.0 less
+				 Ccomp1 12.0 fluoxetine
+					 case 11.0 than
+			 advcl:in 14.0 reducing
+				 dobj 16.0 symptoms
+					 compound 15.0 withdrawal
+				 mark 13.0 in
+			 mark 6.0 that
+		 punct 17.0 .
+		 nsubj 1.0 Studies
+			 nmod:in 4.0 models
+				 compound 3.0 rat
+				 case 2.0 in
+{'standard': 'fluoxetine', 'target': 'escitalopram', 'dimension': 'effective', 'direction': 'less'}
+------------------------------
+These These double-knockout double-knockout mice mice are significantly smaller than their single-gene null parents and show much more severe muscle disease .
+ None 0.0 ROOT
+	 root 6.0 smaller
+		 cop 4.0 are
+		 advmod 5.0 significantly
+		 advmod 5.5 more
+			 Ccomp1 11.0 parents
+				 nmod:poss 8.0 their
+				 amod 9.0 single-gene
+				 amod 10.0 null
+				 case 7.0 than
+		 cc 12.0 and
+		 conj:and 13.0 show
+			 dobj 18.0 disease
+				 amod 16.0 severe
+				 compound 17.0 muscle
+				 amod 15.0 more
+					 advmod 14.0 much
+			 nsubj 3.0 mice
+				 amod 2.0 double-knockout
+				 det 1.0 These
+		 punct 19.0 .
+		 nsubj 3.0 mice
+			 amod 2.0 double-knockout
+			 det 1.0 These
+{'standard': 'their single-gene null parents', 'target': 'These double-knockout mice', 'dimension': 'smaller', 'direction': 'more'}
+------------------------------
+Body mass index was significantly lower in the laparoscopic Nissen fundoplication group than in the PPI group .
+ None 0.0 ROOT
+	 root 6.0 lower
+		 cop 4.0 was
+		 advmod 5.0 significantly
+		 advmod 5.5 more
+			 Ccomp1 17.0 group
+				 case 14.0 in
+				 det 15.0 the
+				 compound 16.0 PPI
+				 case 13.0 than
+			 Ccomp2 12.0 group
+				 det 8.0 the
+				 amod 9.0 laparoscopic
+				 compound 10.0 Nissen
+				 compound 11.0 fundoplication
+				 case 7.0 in
+		 punct 18.0 .
+		 nsubj 3.0 index
+			 compound 2.0 mass
+			 compound 1.0 Body
+{'standard': 'in the PPI group', 'target': 'in the laparoscopic Nissen fundoplication group', 'frame:': 'Body mass index', 'dimension': 'lower', 'direction': 'more'}
+------------------------------
+Upper esophageal sphincter pressure was lower in the laparoscopic Nissen fundoplication group than in the PPI group .
+ None 0.0 ROOT
+	 root 6.0 lower
+		 cop 5.0 was
+		 advmod 5.5 more
+			 Ccomp1 17.0 group
+				 case 14.0 in
+				 det 15.0 the
+				 compound 16.0 PPI
+				 case 13.0 than
+			 Ccomp2 12.0 group
+				 det 8.0 the
+				 amod 9.0 laparoscopic
+				 compound 10.0 Nissen
+				 compound 11.0 fundoplication
+				 case 7.0 in
+		 punct 18.0 .
+		 nsubj 4.0 pressure
+			 compound 2.0 esophageal
+			 compound 3.0 sphincter
+			 compound 1.0 Upper
+{'standard': 'in the PPI group', 'target': 'in the laparoscopic Nissen fundoplication group', 'frame:': 'Upper esophageal sphincter pressure', 'dimension': 'lower', 'direction': 'more'}
+------------------------------
+Median distal esophageal Mean nocturnal baseline impedance was lower in the acid reflux group than in the NAR or no no abnormal abnormal reflux reflux groups groups .
+ None 0.0 ROOT
+	 root 9.0 lower
+		 cop 8.0 was
+		 advmod 8.5 more
+			 Ccomp1 18.0 NAR
+				 case 16.0 in
+				 det 17.0 the
+				 cc 19.0 or
+				 conj:or 23.0 groups
+					 amod 21.0 abnormal
+					 compound 22.0 reflux
+					 neg 20.0 no
+				 case 15.0 than
+			 Ccomp2 14.0 group
+				 det 11.0 the
+				 compound 12.0 acid
+				 compound 13.0 reflux
+				 case 10.0 in
+		 conj:or 23.0 groups
+			 amod 21.0 abnormal
+			 compound 22.0 reflux
+			 neg 20.0 no
+		 punct 24.0 .
+		 nsubj 7.0 impedance
+			 amod 2.0 distal
+			 compound 3.0 esophageal
+			 compound 4.0 Mean
+			 amod 5.0 nocturnal
+			 compound 6.0 baseline
+			 amod 1.0 Median
+{'standard': 'in the NAR or no abnormal reflux groups', 'target': 'in the acid reflux group', 'frame:': 'Median distal esophageal Mean nocturnal baseline impedance', 'dimension': 'lower', 'direction': 'more'}
+------------------------------
+The 325 distal reflux episodes were significantly more frequent than the 58 proximal ones .
+ None 0.0 ROOT
+	 root 9.0 frequent
+		 cop 6.0 were
+		 advmod 7.0 significantly
+		 advmod 8.0 more
+			 Ccomp1 14.0 ones
+				 det 11.0 the
+				 nummod 12.0 58
+				 amod 13.0 proximal
+				 case 10.0 than
+		 punct 15.0 .
+		 nsubj 5.0 episodes
+			 nummod 2.0 325
+			 amod 3.0 distal
+			 compound 4.0 reflux
+			 det 1.0 The
+{'standard': 'the 58 proximal ones', 'target': 'The 325 distal reflux episodes', 'dimension': 'frequent', 'direction': 'more'}
+------------------------------
+No Web site was statistically better than the condition average for childhood asthma and obesity obesity .
+ None 0.0 ROOT
+	 root 6.0 better
+		 cop 4.0 was
+		 advmod 5.0 statistically
+		 advmod 5.5 more
+			 Ccomp1 10.0 average
+				 det 8.0 the
+				 compound 9.0 condition
+				 nmod:for 13.0 asthma
+					 compound 12.0 childhood
+					 cc 14.0 and
+					 conj:and 15.0 obesity
+					 case 11.0 for
+				 conj:and 15.0 obesity
+				 case 7.0 than
+		 punct 16.0 .
+		 nsubj 3.0 site
+			 compound 2.0 Web
+			 neg 1.0 No
+{'standard': 'the condition average for childhood asthma and obesity obesity', 'target': 'No Web site', 'dimension': 'better', 'direction': 'more'}
+------------------------------
+Overall , exacerbations were more prevalent than Community-acquired pneumonia .
+ None 0.0 ROOT
+	 root 6.0 prevalent
+		 punct 2.0 ,
+		 nsubj 3.0 exacerbations
+		 cop 4.0 were
+		 advmod 5.0 more
+			 Ccomp1 9.0 pneumonia
+				 amod 8.0 Community-acquired
+				 case 7.0 than
+		 punct 10.0 .
+		 advmod 1.0 Overall
+{'standard': 'Community-acquired pneumonia', 'target': 'exacerbations', 'dimension': 'prevalent', 'direction': 'more'}
+------------------------------
+However , the percentage of women having non-erosive reflux disease was higher than that of men having non-erosive reflux disease .
+ None 0.0 ROOT
+	 root 12.0 higher
+		 punct 2.0 ,
+		 nsubj 4.0 percentage
+			 nmod:of 6.0 women
+				 acl 7.0 having
+					 dobj 10.0 disease
+						 compound 9.0 reflux
+						 amod 8.0 non-erosive
+				 case 5.0 of
+			 det 3.0 the
+		 cop 11.0 was
+		 advmod 11.5 more
+			 Ccomp1 14.0 that
+				 nmod:of 16.0 men
+					 acl 17.0 having
+						 dobj 20.0 disease
+							 compound 19.0 reflux
+							 amod 18.0 non-erosive
+					 case 15.0 of
+				 case 13.0 than
+		 punct 21.0 .
+		 advmod 1.0 However
+{'standard': 'that of men having non-erosive reflux disease', 'target': 'the percentage of women having non-erosive reflux disease', 'dimension': 'higher', 'direction': 'more'}
+------------------------------

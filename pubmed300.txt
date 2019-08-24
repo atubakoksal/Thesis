@@ -1,0 +1,301 @@
+﻿The consequences by mendelian disease variants, cancer predisposing germline variants and recurrent cancer somatic mutations are more serious than that of complex disease variants.
+The functionalities of cancer predisposing germline variants, mendelian disease variants, and recurrent cancer somatic mutations are greater than that of complex disease variants.
+In general, the associated coding variants for germline cancer, mendelian disease and somatic cancer are more functional than the associated coding variants for complex disease.
+The prediction score annotations for the four types of disease variants by gwava, mutation assessor, and cadd all suggest that cancer predisposing germline variants, mendelian disease variants and recurrent cancer somatic mutations are more functional than complex disease variants. 
+Moreover, gwava, mutation assessor and cadd annotations of the four types of disease variants all suggest that the functionality of cancer predisposing germline variants, mendelian disease variants, and recurrent cancer somatic mutations is greater than that of complex disease variants.
+Enrichment of mendelian disease variants, recurrent cancer somatic mutations, and cancer predisposing germline variants within transcription promoter regions are 21 times , 10.57 times  and 6.1 times  higher than that of the genome variant background respectively, in contrast to only 1.9 times  for complex disease variants.
+To show that the method is better than random selection of mirna–disease pairs, we as background use equiprobable sampling of all possible pairs that can be made from the micrornas and diseases in the gold standard.
+whilst the majority of patients in the duchenne muscular dystrophy global database were less than 20 years old, there was a sizable cohort of patients aged 20 and over 15.6%. 
+Chi-square testing showed that in this age group cardiomyopathy was less frequent in the cohort using steroids than in the past treated or never steroid treated cohorts. 
+Interestingly, in 135 of the 139 samples the average pathway occurrence was significantly higher than for the randomly selected genes based on a re-sampling test with a large variation up to almost 6 pathways per gene in some cell types. 
+the average betweenness centrality of high regulatory load genes is significantly higher than for other genes as determined by a re-sampling test. 
+For 138 samples the length was significantly longer than for the background set. 
+This is particularly interesting in the light of the recent observation that human orthologs of mouse essential genes are significantly longer than all other genes on average.
+Despite promising results in early stage studies, failure of recent phase 3 trials to meet primary endpoints  suggests the clinical variability of duchenne muscular dystrophy is greater than anticipated and that this may mask treatment benefit. 
+This implies that the molecular mechanisms indicated by genome-wide association studies and omim records are more closely relevant to drug treatment than those present in the deg records. 
+An outcome whose minimum score is zero could be considered skewed when the mean was smaller than twice the sd.
+While these remote animal species are less complex than humans, it is quite possible that studying the most distant forms of these genes would reveal insights into the most basic functions they evolved to perform and, by extension, their relationship to human disease.
+Of these, 1304, 8748, and 4811 disease-related genes were overlapped with genes in omim and gwas , but the coverages of genes are smaller than that from digsee.
+From these two disease cases, we can see that digsee’s coverage is higher than that of alzgene and text-mined hypertension, obesity and diabetes.
+Similarly, it was observed that the ratio of transcription factors among genes related to mutation-enriched diseases was less than that of genes related to the gene expression-enriched diseases, with a p-value of 6.23e-13. 
+By doing so, the number of disease genes per family will be much greater than the number of genes per disease. 
+If a candidate gene is closer to the disease genes than the disease genes are to themselves on average, this candidate gene is more likely to be associated with the disease, too. 
+Though data integration rank is only slightly better than endeavour in terms of the area under the roc curve values , the total number of tested genes that were ranked first by data integration rank is much greater than the number of first ranked genes by endeavour .
+RWR is slightly better than data integration rank-protein-protein interaction, which is also consistent with previous studies .
+When ignoring missed genes, using the pathway alone actually can achieve better results when  is small , which is consistent with the fact that tightrect links in the pathway network are much more important than indirect links. 
+Similarly, when separated into three categories, the fraction of genes ranked first by endeavour was much smaller than those of data integration rank and RWR.
+It seems counter intuitive that the protein-protein interaction was more informative than the pathway network.
+the number of genes in the pathway network is significantly less than the number of genes in the protein-protein interaction network.
+In terms of the area under the roc curve values, the improvement of data integration rank over rwr is more impressive than the improvement of data integration rank over endeavour.
+Our results have confirmed that global measures are better than local measures in capturing gene-gene relationships.
+this indicates that disease information contained in known disease micrornas is still more important than that in their target genes when prioritizing candidate disease-associated micrornas.
+It was found that quality of protein interaction data was more important than its volume.
+Some diseases were not yet broadly studied, so their number of retrieved abstracts can be less than 100.
+To overcome the limitation, a new semantic-based similarity measure achieved an area under the roc curve of 83.5 %, which is even slightly better than the function-based method bog.
+Using disgenet as gene-disease association data source, the area under the roc curve of netsim grew to 96.9 % , which is even better than medsim and netsim that fused methods. 
+If the mean jensen–shannon distance was greater than 0.25, we combined samples by their sub-facet, producing multiple expression profiles under the names of the sub-facets. 
+For example, in reticulocytes, the expression of hbb is 176,857 times higher than the median expression value of the gene across all cell types.
+An empirical p value was produced by computing the proportion of permuted expression profiles in which the mean expression score was greater than the mean expression score in the observed profile.
+Empirical p values were produced by computing the proportion of permuted interactomes in which the compactness score of s was smaller than the compactness score of s in the observed interactome.
+The fatality of suicide attempts is also higher in bd than in the general population.
+Fisher’s exact test was used to determine whether the number of co-mentioning articles is greater than expected by chance. 
+It is worth emphasizing that the whole-genome sequence data sets are in some ways more prone to misinterpretation than earlier analyses because of the sheer wealth of candidate causal mutations in any human genome, many of which may provide a compelling story about how the variant may influence the trait; a problem that has been referred to as the ‘narrative potential’ of human genomes. 
+SSRIs are generally more acceptable than TCAs, and there is evidence of similar efficacy. 
+Evidence derived directly from patient tissue or cells can often be stronger than that from model systems, particularly  if the molecular defect can be rescued by complementation in a cellular assay. 
+Models are most valuable if they directly mimic the predicted functional impact of the candidate variants: for example, knockout mice are better models of recessive loss of function than of dominant missense mutations in a candidate gene. 
+specifically, inferred relationships are more consistent with those in smaller medical subject headings disease trees than larger ones, but there are some notable exceptions that may correlate with higher molecular content in medical subject headings.
+Because the disease ontology is substantially larger than any of the individual medical subject headings trees, we extracted smaller directed acyclic graphs from the full disease ontology to facilitate algorithm comparison.
+All are fairly tree-like; only small numbers of nodes have more than one parent, and the total number of edges is not that much larger than the number of nodes.
+The results showed that the area under the roc curve values of four cancers were slightly lower than that we obtained previously . 
+The results showed that our strategy was more advantageous than the hypergeometric distribution method . 
+The ns1:gfp fluorescent reporter strain of influenza a virus is approximately ten-fold less infectious than wild-type influenza a virus.
+Sites of muscle damage were more prevalent in the anterior muscle segments than the posterior muscle segments of infected zebrafish at 24 hours post infection. 
+This hypothesis is supported by the observation that versikine immunoreactivity in developing mouse hindlimb muscles at e13.5 days is much higher than in mature muscles at 3 weeks of age . 
+However, the concentration of dexamethasone used was 100–400 folds higher than our low dose treatment .
+However, in this and other studies, the observed effects of rev-erb antagonism are more pleiotropic than can be accounted for by brain and muscle arnt-like 1 and clock regulated transcription and appear to be directed more by tissue specific factors such as nuclear factor-y and hepatocyte nuclear factor 6. 
+Learning difficulties involving language-based skills, such as reading, are also more common than other learning difficulties in this population.
+If calcium intake is less than the recommended intake for age, or if serum 25-hydroxy-vitamin d decreases to less than 30 ng/ml, appropriate dietary intake and nutrient supplementation should be provided according to institute of medicine guidelines.
+Treatment consists of manual and mechanically assisted coughing, which are indicated when forced vital capacity is less than 50% predicted, when peak cough flow is less than 270 l/min, or when maximum expiratory pressure is less than 60 cm h2o .
+When spo2 is less than 95% on room air, the frequency of assisted coughing should be increased to prevent and treat mucus plugging, atelectasis, and pneumonia.
+Vertebral fractures are frequently asymptomatic when identified in children with glucocorticoid-treated illnesses through a monitoring programme that includes a lateral spine radiograph, so the true prevalence is probably higher than existing reports suggest. 
+Since these first experiments, simple t-cells are no longer often used for these purposes as the acquisition of tumor-specific t-cells is much more complex in humans than in mice and it has been demonstrated that virus bound on the surface of t-cells is readily neutralized in vivo. 
+The time taken for the cell to arrive at the tumor must be shorter than the time taken for the virus to replicate in and lyse the cell.
+This ensures that cells carrying ov can also target occult metastases, which are often more difficult to treat than the primary tumor. 
+Given that the basso, beattie, bresnahan score reported for the combination treatment  was similar to that of human scs suspended in the same matrix   and rat scs suspended in fibrin  , it remains unclear if the combination treatment is truly better than scs alone.
+Recently, it has been suggested that sc precursors may be more beneficial than scs from newborn rodents.
+it is, unfortunately, far more complex than obtaining minocycline from sigma, preparing it according to the manufacturer's protocol, and infusing a standard dose into a rodent after an acute spinal cord injuries.
+Because the golden retriever muscular dystrophy clinical syndrome is more severe than in mice, better aligning with the progressive course of duchenne muscular dystrophy, canine studies may translate better to humans.
+the effect size of the interaction was .036, which –although small in size according to Cohen’s thumb of role– is substantially bigger than the interaction in the social anxiety disorder group.
+Park and colleagues  additionally demonstrated that for a 1.5mg/kg dose, four administrations over 48h were better than infinite horizon impactor administration.
+However, in preliminary  studies to determine the experimental parameters for our reinstatement studies with food, we found that the effects of both food priming and yohimbine on reinstatement are substantially weaker and more variable in rats given unlimited access to regular rat chow than in rats that were food restricted to 20 g. 
+This effect, however, was weaker than the reinstatement induced by food priming and was also observed in control rats for which during training, lever presses led to cue-light presentations but not food.
+In contrast, moroccan couscous was not contaminated with beauvericin  and enn concentrations were mostly lower than 100 µg/kg . (
+It should be noted that the experimental moniliformin levels in the feed studies were about a factor 1000 higher  than the levels usually found in feed samples.
+The prediction accuracy of the five models are all greater than 98.17%, the precisions are greater than 99.62%, the sensitivities are greater than 96.32%, and the matthews correlation coefficient are greater than 96.40%.
+In the comparison of classifiers, the accuracy obtained on the rotation forest classifier is higher than those obtained on the support vector machine classifier.
+There is evidence that specialized, team‐approach‐based interventions combining pharmacotherapy and psychoeducation are more effective than standard community care.
+Dmax is the maximum distance between any two adjacent microsatellites and if the distance separating two microsatellites is less than or equivalent to dmax, these microsatellites are classified as compound simple sequence repeats.
+Poly repeats were significantly more prevalent than poly repeats in each of the studied genomes which may be attributed to the high content of the genomes . 
+Myopia occurs because the cornea or lens is too powerful or because the eyeball is longer than normal. 
+Racial and ethnic differences in magnitude and prevalence of myopia have been observed , both being greater in asia than other parts of the world . 
+We excluded trials where participants were older than 18 years at the start of the trial.
+These estimates of efficacy are more conservative than those reported in a previous review.
+Serious adverse events  were no more common than with placebo. 
+A number of outcomes consistent with immpact recommendations for substantial and moderate benefit were reported in two or more placebo-controlled studies, and the results showed gabapentin at doses of 1800 mg daily or more to be more effective than placebo .
+Gabapentin alone, morphine alone, and the combination were significantly better than placebo .
+The average pain intensity was somewhat lower with gabapentin than with placebo, but the number of participants described as having pain under control was very similar with both treatments after six days, with 50% to 60% with pain under control over six to 10 days.
+Gabapentin was significantly better than placebo for vas pain, pain reduction, and vas function, and an nnt of 3.4 for Gabapentin compared with placebo was reported, though no details were recorded about outcome.
+Serious adverse events were no more common with gabapentin than placebo, and death was an uncommon finding in these studies. 
+These efficacy estimates are also more optimistic than nnts for immpact substantial benefit calculated for this review, and more optimistic than nnts calculated for the same outcome of at least 50% pain relief for postherpetic neuralgia of 5.7 and painful diabetic neuropathy of 5.8.
+The working hypothesis proposed in this review is that nicotine use during adolescence is driven by two factors: 1 the positive effects of nicotine during adolescence are greater than in adults and 2 the negative effects associated with nicotine and withdrawal from this drug are substantially lower than those experienced by adults.
+If the effect on startle of the bed nucleus of the stria terminalis’s inhibitory influence on central nucleus of the amygdala neurons was less readily disrupted than its facilitatory effect on startle itself, this would generate a u-shaped dose-response function such as that observed with light-enhanced and perhaps also for context-potentiated startle. 
+The most telling outcome is these types of design is a demonstration that contralateral treatments are more effective than ipsilateral treatments, as this controls for the total amount of damage.
+The size of the gap in the cord is also larger at this stage than at all other stages .
+These cells are more likely to be ependymoglia than astrocytes because they express glial fibrillary acid protein only weakly. 
+We have previously shown that γhv68 loads in the lung of mavs mice were significantly lower than those in the lung of mavs mice at 10 d.p.i. . 
+Consistent with hematoxylin and eosin staining, there were much more and larger iba1-positive foci, in the lung of γhv68-infected mavs mice than those of mavs littermates , indicative of escalated inflammation in mavs mice.
+Single dose oxycodone is an effective analgesic in acute postoperative pain at doses over 5 mg; oxycodone is two to three times stronger than codeine.
+The needed to treat to benefit for at least 50% pain relief in these studies was lower for dental studies than other types of surgery, but the difference was not statistically significant.
+The surveillance has a prospective design because, for the assessment of risk factors, prospective cohort studies are more appropriate than case-control studies.
+Suppression of toxicity under high levels of dnab induction was greater for rpob than for rpob , reflecting patterns of suppression of genome duplication defects conferred by these mutations.
+In δrep cells, the number of origins per cell was higher than in rep cells even in the absence of dnab overexpression .
+The proportion of patients experiencing at least one adverse event was higher in the pregabalin treatment groups than in the placebo group, though the rates among the three pregabalin dose groups were similar.  
+Also, the minimum score of a trial in which the monkey attempted to retrieve the pellet was awarded 50 to ensure it is clearly better than a no attempt. 
+Recovery of manipulation proceeded on a slower schedule, and was generally more variable than reaching.
+Indeed, consistently dropping the carrot chip actually produced lower variability in post-lesion performance scores, such that this monkey’s measured skill on the mmap curved rod task was much higher post-lesion than pre-lesion . 
+However, the slow recovery of sdm64 is particularly notable as the gray mattemptsr lesion was limited to lateral motor cortex but the white mattemptsr lesion was much larger than other monkeys with a similar lesion.
+At 17 days of stress, the number of differential transcripts shared by the tolerant landraces was also greater than those shared between either of the tolerant landraces and the susceptible landrace. 
+Indirect comparisons of needed to treat to benefits for at least 50% pain relief over 4 to 6 hours in reviews of other analgesics using identical methods indicate that dipyrone has similar efficacy to ibuprofen 400 mg and paracetamol 1000 mg plus codeine 60 mg, is more effective than paracetamol 1000 mg alone and less effective than etoricoxib 120 mg . 
+In general, cpg island methylation is higher in males than in females; this may explain some gender-based differences in 5-ht reuptake from the extracellular space through the serotonin transporter expression results. 
+In addition, there has been a proposal that the Geriatric Depression Scale could be more useful than HAMD to detect depressive disorder in this population.
+Craving measurements were higher in ll/ls alcoholics than in ss alcoholics, especially in those who reported a longer length of lifetime consumption.
+It has been suggested that ll alcoholics are more susceptible to alcohol neurotoxicity following chronic consumption than ss alcoholics. 
+Suicide is one of the leading causes of death in bd, with approximately 6%‐7% of identified patients with bd dying by suicide; thus, suicide risk is substantially higher in bd than in the general population.
+In addition, the in vivo binding potential of 5-ht reuptake from the extracellular space through the serotonin transporter is greater in the putamen of healthy la/la individuals than in healthy lg/lg individuals according to a dasb positron-emission tomography scan study.
+Because this single nucleotide substitution is not considered in many previous genetic studies of alcohol dependence, some results may be less conclusive than predicted. 
+Studies in rat models revealed that escitalopram was less effective than fluoxetine in reducing withdrawal symptoms.
+Similarly, the association between nicotine dependence and psychiatric disorders has become stronger in more recent us cohorts as smoking has become less common; a pattern that is thought to be related to changes in social norms, such that nicotine dependence is a more powerful marker of “deviance” now than when smoking was much more normative in the past . 
+The weiss et al. analysis is compelling: it could be taken to suggest that the pharmacological effects of cocaine were less important in predicting adverse outcomes than sociocultural meanings of use.
+In japan, the use of other illicit drugs by age 29 years was more prevalent than cannabis .
+This rate was one and one third to more than 10 times higher than that seen among cannabis users in countries where alcohol and/or tobacco use was prevalent .
+In hippocampal slices from similarly aged fragile x  mice, dhpg elicited a depression in the synaptic responses to 68.3 ± 1.5%  and 68.9 ± 1.6%  of pre-dhpg baseline values at 60 and 80 minutes after induction, respectively; the magnitude of depression was significantly greater than that measured in slices from wt mice  .
+Thus at this age there was also a significantly larger decrease in amplitude in the fmr1 ko mice than in the wt controls .
+Interestingly, the expression of these genes was generally higher in erα-negative breast tumor cell lines than in erα-positive lines.
+In particular, real-time rt-pcr is far more precise, reproducible and quantitative than cdna microarrays. 
+The relative risk  of a type a fracture from a simple fall was 1.5 times higher than for any other cause of injury .
+The delay until surgery was significantly longer for compression fractures than distraction and rotation injuries: 3 days , 2 days , and 1 day  . 
+Though heavier, chow-maintained diet-induced obesity rats were proportionately as or more lean than diet resistant rats.
+Herein, kukoamine b was shown to have high affinity  for lipopolysaccharide from escherichia coli o111:b4, but the affinity was lower than that of polymyxin b  .
+However, the kd value could not be thought to be absolute amount or concentration of ligand binding to a receptor/molecule, especially in bioactivity studies, so concentrations used in cellular tests are commonly higher than the kd value.
+Herein, the maximum concentration of kukoamine b was set at 200 µm, which is only 140- fold or 300-fold higher than its kd value for lipopolysaccharide from escherichia coli o111:b4 or cpg dna, respectively. 
+In the cellular tests, kukoamine b, unlike polymyxin b, inhibited the release of cytokines induced by both lipopolysaccharide from escherichia coli o111:b4 and cpg dna, suggesting that kukoamine b is more bioactivite than polymyxin b.
+At 50 mg and 100 mg, needed to treat to benefits for diclofenac potassium  and 1.9  were significantly lower  than for diclofenac sodium  and 4.5.
+In hypoxaemic fetuses, values for basal arterial po2 and saturation of haemoglobin were significantly lower, and values for basal arterial were significantly greater, than respective values in control fetuses.
+However, values for femoral blood flow and femoral o2,del, in both acidaemic  and hypoglycaemic  fetuses, were significantly lower than respective values in control , but not hypoxaemic  fetuses.
+Under the conditions used in our experiments, 35 mm k evoked a significant calcitonin gene-related peptide release , which was, however, significantly smaller than the calcitonin gene-related peptide released by 60 mm k . 
+It is important to note that while the experimental demands inherent within the concurrent protocol are much greater than basic protocols 1 and 2, the capacity to show that a pharmacological agent can selectively alter ethanol consumption in the absence of modifying another highly palatable oral reinforcer is regarded as an optimal test for preclinical screening of agents that might hold promise in reducing alcohol intake in humans. 
+Fm1-43 is present in both inner hair cells and outer hair cell, but the intensity of labeling is less than when the bumetanide is coadministered with the dye.
+Some deiters’ cells were rounded as the reorganization proceeded and the cell body enclosing the nucleus was at a more apical position than normal. 
+Animals of this age were used partly to keep injection volumes as small as possible, partly because it has been suggested that animals of this age are more sensitive to the aminoglycoside–diuretic combination than older animals. 
+In other species, outer hair cell in the apical coil are relatively less vulnerable to damage than those in the basal coil, and they may persist even when basal coil inner hair cells have been lost.
+Inspection of the organ of corti and stria vascularis in individual cochleae at the different time points also indicated that, in those cochleae where inner hair cells persisted, the decrease of strial thickness was less than in those at the same posttreatment time where inner hair cells were lost.
+Stimulated tc17 cells were able to attract neutrophils, but they were less efficient than cxcl2 alone. 
+We had previously shown that adoptive transfer of varying numbers of tc1 or tc2 effectors into tumor-bearing mice could control the growth of established tumors but that tc1 were more effective than tc2 in that only one twentieth of the number of tc1 cells were required to effect the same level of control.
+It can be seen that tc1 were again more effective than cells of the tc17 subset in bringing about a 20 d prolongation of survival that was achieved with 50-fold fewer tc1 effectors.
+Neither of these can be considered to yield a definitive number for the ratio but it is clear that tc17 or tc2 effectors administered alone are significantly less effective than tc1. 
+Self-organizing map cluster 1  contains transcripts that are more highly expressed in wild-type and adjacent erbb2/neu mammary glands than in the erbb2/neu-induced tumors.
+For sequences collected early after infection, if the diversity is much greater than what is expected from a homogeneous infection, then multiple strain infection is a likely explanation.
+If the sampled variants are representative of a lineage that was initiated by the infecting strain, the time to the most recent common ancestor should correspond to the time of infection; if the lineage arose in the donor, the time to the most recent common ancestor would be longer than the infection; if the lineage arose post-infection in the newly infected individual as a consequence of selection, the time estimated to the most recent common ancestor would be less than the time from infection. 
+SSRIs and SNRIs are usually preferred as initial treatments, since they are generally safer and better tolerated than TCAs or MAOIs.
+Study duration had to be greater than 12 weeks. 
+If the aud symptom counts among the offspring in the discordant - parent affected group is higher than observed among the offspring in the discordant - parent unaffected group, then a specific effect of parental aud is implicated. 
+The results presented in  suggest that there will be stronger evidence for a potential causal effect of parental ad when this combined group is used in analyses because the difference between this combined parent affected group  and the parent unaffected group will be larger than the difference that is obtained when analyses are limited to the offspring of discordant twin pairs. 
+This correlated familial effect was a significant predictor of offspring alcohol use disorder , and was also a much stronger predictor than the within-family effect of exposure to an alcoholic parent.
+While the cumulative bone morphogenetic protein-2 releases from groups g/b and pg/b were less than that of the vascular endothelial growth factor releasing samples in this study, their release curves were similar to those observed in previous work.
+Overall, men were less likely to report being married , residing with their child , and cohabiting  than women during the observation period. 
+Instead, men were more likely than women to report being single , residing with their parents , residing with roommates , or residing alone .
+Residence in a dormitory was also associated with more frequent heavy drinking, though the effects were weaker than residence in a fraternity or sorority . 
+For women, substance use was lower when they worked in full-time or part-time jobs than when they were not working, though these differences were small in magnitude. 
+Men drank and smoked cigarettes more frequently when they were in the military than when they were not; however, when men were in the military they were less likely to use marijuana and cocaine. 
+Indeed, among the few significant findings, the effects of marriage, engagement, parenthood, and military involvement were stronger on changes in illicit drugs for adolescent marijuana users than for nonusers.
+Consistent with previous research , our results also suggest that social roles involving family formation behaviors are highly influential in reducing substance use, and perhaps more influential than either school or work roles.
+We next tested whether the increases in antidepressive behavior and hippocampal neurogenesis in ap oa1 mice were due to more efficient creb activation by chronic daily injection of octopamine than acute octopamine treatment. 
+Levels of vascular endothelial growth factor in the granule cell layers  of the dentate gyruss of ap oa1 transgenic mice were four-fold higher than in those of their wild-type littermates  .
+Moreover, avoidance behavior may be more subtle in social anxiety disorder than specific phobia, such as the reliance on ‘in-situation or subtle safety behaviors’ that contribute to the maintenance or exacerbation of anxiety.
+It is interesting that although the plasma virus in viremic patients failing highly active, antiretroviral therapy was more drug resistant than viral species in resting cd4 t cells in the context of the current regimen, only 4 out of 13 plasma samples contained virus with intermediate- or high-level resistance to all of the drugs in the current antiretroviral regimen.
+Wild-type clones that persisted in the resting cd4 t cells of patients failing highly active antiretroviral therapy were not only less fit than plasma virus in the presence of the current antiretroviral regimen, but also less divergent from an inferred most recent common ancestor .
+Resting cd4 t cells in patients failing highly active antiretroviral therapy continue to harbor wild-type human immunodeficiency virus type 1 and archival drug-resistant viral species that are less fit than the virus found in the plasma in the setting of the current drug regimen.
+After 3 weeks post spinal cord injury, neurocan-immunoreactive had diminished but was still comparatively stronger than that observed in the gracile and cuneate nuclei of uninjured animals . 
+Nonetheless, even dorsally, host astrocytes were more aligned and less reactive than in control animals.
+Although the growth of rubrospinal tract axons into and beyond gda-bridged lesions was less efficient than that observed for ascending axons of the dorsal columns, the ability of rubrospinal tract axons to exit gda-bridged lesions and extend up to 3 mm beyond the injury nonetheless offers a marked improvement over the complete failure of rubrospinal tract axons to cross spinal cord injuries bridged with olfactory ensheathing cells . 
+In control  mdck monolayers, permeability to na was greater than that to cl, as indicated by the apically negative dilution potential that was generated when both na and cl were diluted on the basolateral side.
+However, the perilymphatic k concentration was significantly higher in the nmf329 mice and controlnmf329 mice than in their littermate controls .
+Also, the local k level close to the “leaky” epithelium may be higher than the k concentration in the bulk of the perilymph.
+However, the k concentration in the bulk of the perilymph may be significantly lower than the local k level in the basolateral fluid, because k is likely to become proportionally diluted as the distance from the “leaky” epithelium increases.
+However, for reasons not fully understood, but possibly related to increased urinary secretion or more rapid bone growth by rodents, the doses of fluoride in the drinking water of rats and mice used for the study of fluorosis in the continuously erupting incisor are approximately 10 times higher than those required for humans to achieve similar fluoride plasma levels.
+The plasma fluoride levels obtained after a single parenteral application of fluoride are proportional to the fluoride dose , and are much higher than those obtained following ingestion of fluoride-containing drinking water.
+Despite a lower total fluoride intake by acidotic rats, as compared with normal or alkalotic rats, plasma fluoride levels in acidotic rats are substantially higher than in normal or alkalotic rats .
+Sustained plasma fluoride levels  are more potent in inducing enamel defects than transient levels reached by the intake of fluoridated water.
+Generally, the fluoride doses required to induce cellular changes in ameloblasts are at least two orders of magnitude higher than the very low doses of fluoride that induce mineralization disturbances. 
+In addition, the apoptotic index for human primary enamel organ cells, identified by cell sorting, is increased at both 10 and 20 µmol f/l in culture, though these fluoride levels are higher than the plasma fluoride levels to which early-differentiating ameloblasts would likely be exposed.
+In contrast, α7 nicotine acetylcholine receptors controlling glutamate excitation are much less susceptible to desensitization following nicotine exposure than gamma-aminobutyric acid neurons . 
+Based on these findings the authors suggest that nachrs in the ventral tegmental area are of greater significance than those located in the nucleus accumbens for mediating the behavioral effects of nicotine. 
+Both listeria monocytogenes-infected kd and kdm3 mice exhibited a steady increase in the total number of cd44cd8 t cells during the first week of infection even though the number of cd44cd8 t cells was significantly greater in kd mice than in kdm3 mice .
+The data were not used if the resting membrane potential was less than −70 mv when whole whole-cell configuration was obtained.
+The relative decrease in the number of neurons  was much greater in the septal area than the temporal area, for both ca1 and hilus. 
+However, the magnitude of the acidaemia measured in the arterial blood of fetuses exposed to hypoxaemia following dexamethasone treatment was greater than that observed in the saline-infused fetuses .
+As in patients, the neuropathology includes hippocampal sclerosis, as well as neuronal damage to other limbic structures, such as the amygdala, thalamus, and entorhinal cortex; however, the extent of damage is usually more apparent and extensive than the one seen in patients. 
+Samples were scored as loss if the ratios were greater than 1.5 or less than 0.67 according to criteria used in other studies. 
+However, the brca2 frequencies of loss were slightly lower than expected and lower than the frequencies used in other studies. 
+In the usa, school districts often do similar testing, but the scope of such testing is usually narrower than that done by neuropsychologists and results might not be interpreted with appropriate reference to the medical context.
+Research has shown that phosphorodiamidate morpholino oligomer administration in a formulation containing glucose and fructose is eight times more effective in improving dystrophin production through exon skipping than phosphorodiamidate morpholino oligomers administered in saline. 
+Utrophinstrophin and integrinstrophin double-knockout  mice are much smaller than the age-matched wild-type  mice.
+These double-knockout mice are significantly smaller than their single-gene null parents and show much more severe muscle disease  .
+The disease phenotype in dystrophic dogs is more severe than in mice, suggesting that canine studies might better translate to humans.
+Our studies show that osteopontin is more specific than cd163 and il-10 in identifying the m2c macrophage subtype, both in vivo and in vitro. 
+Although glucocorticoid induced tnfr-related protein expression on mdx muscle tconv was increased relative to age-matched controls, the expression was lower than that found on tregs . 
+We observed that sarcospan‐null hearts were larger than wild‐type hearts after isoproterenol treatment, as visualized in wet‐mount samples . 
+While the golden retriever muscular dystrophy model may be more clinically relevant than the mdx mouse, usage has been limited by practical considerations related to expense and the number of dogs available.
+While this dose is higher than the typical regimen of 0.75 mg/kgy used in duchenne muscular dystrophy , care must be taken in extrapolating drug dosages among species.
+because of their outbred nature, dogs are more likely than mice to model the immune response to cell-based therapies.
+Body mass index was significantly lower in the laparoscopic Nissen fundoplication group than in the PPI group .
+Upper esophageal sphincter pressure was lower in the laparoscopic Nissen fundoplication group than in the PPI group .
+However, the post-treatment symptom score for globus was lower in the laparoscopic Nissen fundoplication group than in the PPI group .
+Body mass index was significantly lower in the laparoscopic Nissen fundoplication group than in the PPI group .
+The area under the curve for poor metabolizers is reportedly 5–12 times higher than in extensive metabolizers.
+There is no evidence that TIF is more effective than laparoscopic Nissen fundoplication, but two recent studies demonstrated that TIF is superior to high-dose pump inhibitor therapy for controlling heartburn and regurgitation at 6-month follow-up.
+Median distal esophageal Mean nocturnal baseline impedance was lower in the acid reflux group  than in the NAR  or no abnormal reflux groups .
+Most studies have shown that baseline impedance levels  are lower in patients with Gastroesophageal reflux disease than in healthy individuals or those with functional heartburn.
+The median distal esophageal Mean nocturnal baseline impedance was significantly lower in the acid reflux group  than in the nonacid reflux group  and nonreflux group .
+Distal Mean nocturnal baseline impedance are lower in patients with acid reflux than in patients with nonacid reflux and nonreflux subjects .
+Consistent with this, we found that distal Mean nocturnal baseline impedance were lower among patients with acid reflux than that with nonacid reflux or nonreflux.
+A previous similar study by Farre et al  showed that the baseline impedance at 3 cm above the lower esophageal sphincter was lower in Gastroesophageal reflux disease patients  than in healthy subjects; however, the impedance at 7 cm above the lower esophageal sphincter did not differ between the 2 groups.
+As atypical symptoms appear to be primarily associated with nonacid reflux, multichannel intraluminal impedance and pH monitoring may be more accurate than pH monitoring alone or PPI tests for the detection of Gastroesophageal reflux disease.
+A recent study found that proximal mucosal afferent nerves were in a more superficial location than distal nerves, and this may be the anatomical basis of enhanced sensitivity to reflux-evoked symptoms in the proximal esophagus.
+Our automated allele calling program was more than 95% accurate and compared favorably with commercial software packages; however, all calls were checked manually for accuracy and all allele calls within the region of linkage were rechecked following the initial data analyses.
+Except for the region on chromosome 13, only 16 markers gave positive logarithm-of-odds scores, of which only 3 were greater than 1.0.
+In 14  symptom index-positive patients, with liquid weakly acid reflux, the occurrence rate of reflux symptoms was significantly more frequent in proximal reflux episodes  than in distal ones  .
+With mixed liquid-gas weakly acid reflux, the occurrence rate of reflux symptoms in proximal reflux episodes was significantly more frequent  than in distal reflux ones  .
+Several studies have demonstrated that non-erosive reflux disease  patients are less sensitive to PPI treatment than patients with erosive reflux disease .
+PPI-refractory Nerosive reflux disease patients were so defined if their for symptoms of gastro-esophageal reflux disease scores were higher than 8, and they had persistently troublesome Gerosive reflux disease symptoms, such as heartburn or regurgitation, even while taking a double dose of PPI  for at least 8 wk.
+Patients were considered to be infected with Helicobacter pylori if their serum test values were greater than 9.90 U/mL. 
+The mean for symptoms of gastro-esophageal reflux disease score of the symptom index-negative group  was significantly higher than that of the symptom index-positive group  .
+The 325 distal reflux episodes were significantly more frequent  than the 58 proximal ones  .
+The occurrence rate of reflux symptoms in proximal reflux episodes was significantly more frequent  than in distal ones  .
+On the other hand, with liquid weakly acid reflux, the occurrence rate of reflux symptoms in proximal reflux episodes was significantly more frequent  than in distal ones   .
+In the present study, the for symptoms of gastro-esophageal reflux disease score in the symptom index-negative group was significantly higher than that in the symptom index-positive group because patients with functional heartburn had a tendency to be more sensitive both to heartburn and dyspeptic symptoms than those who were symptom index positive. 
+Even if the proportion of acid reflux is less than that of weakly acid reflux, acid reflux is one of the important factors in the perception of reflux with insufficient acid suppressive therapy in Nerosive reflux disease patients. 
+Several studies have demonstrated that Nerosive reflux disease patients are less sensitive to pump inhibitor treatment than patients with erosive reflux disease.
+In those with COPD, the prevalence is five times greater than the non-COPD population for proximal and distal reflux.
+Distal baseline impedance levels in acid reflux type were significantly lower than those in nonacid reflux type and functional heartburn  group.
+Previous studies, which focused on Gastroesophageal reflux disease and functional heartburn diseases, have revealed that baseline impedance levels in Gastroesophageal reflux disease patients were lower than functional heartburn patients and healthy people, and demonstrated that baseline impedance levels are correlated with acid exposure time  and mucosal injury of the esophagus, and suggested that baseline impedance levels are considered as an indicator of the esophageal mucosal integrity.
+In our previous study, we demonstrated that laparoscopic Toupet fundoplication  was more effective than the Stretta procedure in controlling Gastroesophageal reflux disease symptoms.
+However, bronchoscopy sampling is relatively expensive, more invasive than other techniques, and time consuming.
+Nuclear imaging scintigraphy is more widely available worldwide than pH monitoring and/or multichannel esophageal intraluminal impedance testing-pH monitoring.
+In our study, the sensitivity of gastroesophageal reflux scintigraphy was higher than its specificity, in contrast to previous studies, and comparing the results of pH monitoring and gastroesophageal reflux scintigraphy showed that two tests were in agreement for 29  patients and the kappa value was below zero.
+Our results show that multichannel esophageal intraluminal impedance testing-pH monitoring is more sensitive than both gastroesophageal reflux scintigraphy and pH monitoring.
+Gastroesophageal reflux scintigraphy  is easy to perform and more widely available worldwide than multichannel esophageal intraluminal impedance testing-pH monitoring.
+The mean duration of non-rapid eye movement sleep in the on-pump inhibitor group was longer than in the pre-pump inhibitor group , but such an increase in non-rapid eye movement duration was not observed in the post-pump inhibitor group.
+In some patients, it has been shown that regurgitation is less responsive to acid suppression than heartburn, and that regurgitation is likely to be an important factor in determining response to pump inhibitor .
+Other co-existing conditions, like obesity and heliobacter pylori infection are also less frequent in responders than non-responders .
+Recent studies have indicated that high-resolution manometry is reproducible and more sensitive than stationary manometry in detecting Tlower esophageal sphincterRs associated with reflux .
+In a recent meta-analysis of five randomized, controlled trials, it was concluded that at 1 and 5 years, dysphagia and gas-related symptoms are lower after LAF than after Laparoscopic Nissen fundoplication, and esophageal acid exposure and esophagitis are similar, with no differences in heartburn scores, patient satisfaction, dilations, and re-operation rate.
+Moreover, it has been suggested that the questionnaires are more useful for follow-up of patients than for diagnosing Gastroesophageal reflux.
+The response of heartburn  to acid suppression is higher in RE+ patients than in RE− patients, concordant with RE being a good proxy for pathologic esophageal acid exposure in lieu of pathologic esophageal acid exposure-testing.
+Reflux is more often acidic in patients with reflux esophagitis than in those without , consistent with the strong causal link between reflux esophagitis and esophageal acid exposure .
+As such, the symptoms experienced by patients with reflux esophagitis are more often related to acid and thus more responsive to pump inhibitors than symptoms in patients without reflux esophagitis .
+The definitions of ‘functional heartburn’ and ‘functional chest pain of presumed esophageal origin’ need to be re-evaluated because heartburn or chest pain are clearly more than just a consequence of acid reflux. 
+More reflux episodes reached the proximal esophagus , and median bolus clearance time measured at 5 cm from lower esophageal sphincter was longer  in acid reflux than in weakly acidic reflux.
+The total number of mixed reflux was higher in erosive reflux disease patients than in patients with Nerosive reflux disease ; however, the proportion of mixed reflux to total reflux episodes was various among patients with erosive reflux disease or Nerosive reflux disease . 
+Mortality was higher for first than second-generation antipsychotic initiators .
+From these, we restricted our attention  to scenarios where sensitivity was equal or greater among survivors than non-survivors as we expected more false-negative coding among the deceased.
+Hand reaction times were longer for the choice reaction time  than for the simple reaction time .
+This was confirmed by the statistical analysis: the mean center of pressure position on the antero-posterior axis, averaged in both conditions of stimuli during the 600 ms preceding the hand movement onset was more posterior  in the frail group  than in the control group . 
+Results revealed that the center of pressure MV was lower  in the frail group  than in the control group .
+However, for the initial control phase and the final control phase, the center of pressure MV was much more superior for the control group than for the frail group .
+No Web site was statistically better than the condition average for childhood asthma and obesity.
+The mean grade reading level for the English-language Web sites was significantly higher than for Spanish-language Web sites .
+Although accuracy levels were generally high, the presence of conflicting information makes it possible that people will be more confused than enlightened.
+pVoice-Related Quality of Life score was significantly higher in patients without cardiac surgery  than patients with any history of cardiac surgery  . 
+An automated alert system that is carefully designed to “get it right” for a limited number of drugs may be more credible and effective than systems that focus more generically on dozens or hundreds of drugs.
+the likelihood of non-acid reflux producing a different symptom profile might be lower than acidic reflux in this setting.
+It is unclear whether esophageal sensitivity in refractory Gastroesophageal reflux-induced chronic cough is higher than naive Gastroesophageal reflux-induced chronic cough.
+ As an alternative, inhaled nitric oxide possesses pulmonary selectivity, but it is less potent than prostacyclin in the pulmonary vasculature.
+Intravenous or subcutaneous therapies are more appropriate than oral therapies for advanced patients, but, in fact, most patients with severe Pulmonary arterial hypertension are usually not on monotherapy throughout.
+Patients were excluded if follow-up was less than 30 days. 
+However, the number of acid reflux episodes was lower in the responders than in the non-responders .
+gastroesophageal reflux disease symptoms are more frequent in patients with Non-erosive reflux disease than in those with reflux esophagitis.
+The mean age of esophageal adenocarcinoma incidence in women is higher than in men, suggesting a role of estrogen in delaying the onset of Barrett’s esophagus and esophageal adenocarcinoma.
+Both functional heartburn and non-erosive reflux disease are more common in women than in men.
+Epidemiological data have suggested that the esophageal mucosal epithelium is more fragile to refluxed gastroduodenal contents in men compared to that of women, although women are more susceptible to Gastroesophageal reflux disease symptoms than men. 
+A meta-analysis has described that the men/women ratio in the prevalence of reflux esophagitis was 1.57  and the mean age of men with reflux esophagitis was lower than that of women.
+A quantitative analysis of esophageal symptoms has showed that the symptom frequency and severity were significantly higher in women than in men.
+Moreover, the degree of esophagitis was more severe in males than in females.
+However, the percentage of women having non-erosive reflux disease  was higher than that of men having non-erosive reflux disease . 
+In one pharmacovigilance survey, children prescribed a medication off-label were more than 3 times as likely to experience an adverse event as children prescribed the medication according to the approved labeling.
+Community-acquired pneumonia  is more common in patients with COPD than in the adult general population, with studies of hospitalized Community-acquired pneumonia patients consistently reporting COPD as a frequent comorbidity.
+Overall, exacerbations were more prevalent than Community-acquired pneumonia.
+Greater understanding of the underlying mechanisms is therefore required to establish why some patients are more susceptible to Community-acquired pneumonia than others. 
+Nonacid Gastroesophageal refluxC is less common than acid Gastroesophageal refluxC, and its diagnosis and treatment strategy have not been standardized.
+The results of our study have shown that both nonacid Gastroesophageal refluxC and acid Gastroesophageal refluxC are more common in women than men.
+Results reported by Blondeau et al. suggest that MII-pH combined with intraluminal pressure monitoring is better for diagnosing Gastroesophageal refluxC than the use of either method alone.
+Taken together, the available evidence shows that the incidence of acid reflux and belching symptoms in nonacid Gastroesophageal refluxC patients is significantly lower than in acid Gastroesophageal refluxC patients. 
+In erosive esophagitis patients, the for Symptoms of gastroesophageal reflux disease scores of the CYP2C19 rapid metabolizers  were significantly higher than the scores of the poor metabolizers and intermediate metabolizers .
+In contrast, the for Symptoms of gastroesophageal reflux disease scores of the CYP2C19 rapid metabolizers in the non-erosive reflux disease patients were significantly lower than those of the other patients .
+Moreover, non-erosive reflux disease  is more difficult to treat using pump inhibitors than erosive esophagitis .
+In contrast, the for Symptoms of GERD-dysmotility-like symptoms scores of the non-erosive reflux disease patients with the cytochrome P4502C19 RM genotype were significantly lower than the scores of the non-erosive reflux disease subjects with the other cytochrome P4502C19 genotypes . 
+The total for Symptoms of GERD and for Symptoms of GERD-reflux symptoms scores of the erosive esophagitis subjects with the cytochrome P4502C19 RM genotype were significantly higher than the scores of the erosive esophagitis subjects with the other cytochrome P4502C19 genotypes.
+Gastroesophageal reflux disease occurs less frequently in Asia than in Western countries . 
+However, the proportion of Irritable bowel syndrome-related symptoms was higher in Nerosive reflux disease than in erosive reflux disease patients . 
+In 2011, a systematic literature review found that dyspeptic symptoms of epigastric pain, early satiety, bloating, nausea and vomiting were more common in patients with frequent Gastroesophageal reflux disease symptoms  than in those with intermittent or no Gastroesophageal reflux disease symptoms .
+Moreover, van Lelyveld et al  showed that proximal gastric volume was smaller in functional dyspepsia and larger in gastroesophageal reflux disease than in healthy control patients.
+The percentage of patients diagnosed with acidic gastroesophageal reflux disease in the vonoprazan group was lower than that in the proton pump inhibitor group.
+Compared with the PPI group, acid exposure time in the P-CAB group was shorter than that in the P-CAB group .
+Gastroesophageal reflux disease in the P-CAB group was lower than that in the PPI group. 
+The refluxate may be more acidic than the intragastric content.
+The lower esophageal sphincter resting pressure is higher than intraabdominal pressure, and this prevents reflux of gastric contents into the distal esophagus.
+In infants and children, weakly acidic Gastroesophageal reflux is more prevalent than in adults, which can explain why abnormal esophageal pH monitoring does not correlate with symptom severity in infants.
+The symptoms of gastroesophageal reflux in children are more nonspecific than in adults.
+Among the 48 patients, the presence of erosive esophagitis was significantly more prominent in the patients with abnormal gastroesophageal flap valve than in those with normal gastroesophageal flap valve  .
+The positive symptom index and non-acid reflux rate was higher in obese patients  than the others .
+
