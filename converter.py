@@ -27,7 +27,6 @@ class Text2Tuple:
 	
 	
 	def _procLine(self, line):
-		#!!!!!!!!!!!!!!!!! degisiklik
 		REGEX=r"([a-z:_]+)\(([\da-zA-Z%$?.,;'-:\\.\/!]+-\d+),\s+([\da-zA-Z%$?.,;'-:\\.\/!]+-\d+)\)"
 		line = line.strip()
 		pattern = re.compile(REGEX)
@@ -87,8 +86,7 @@ class Converter:
 		return self._fetchByIndex(0, store)
 			
 
-	def _fetchByIndex(self, index, store):
-		
+	def _fetchByIndex(self, index, store):	
 		for x in store: 
 			if x.idx == index:
 				return x
@@ -115,9 +113,7 @@ class Node:
 		self.children = children
 	
 	def get_child(self, deplabel):
-		"""return the child with the deplabel, if there is one; otherwise return None
-		   TODO: adapt if there is a need to access multiple children with the same label
-		"""
+		"""return the child with the deplabel, if there is one; otherwise return None"""
 		for c in self.children:
 			if c.dep_ == deplabel:
 				return c
