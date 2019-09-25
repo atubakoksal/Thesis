@@ -86,7 +86,8 @@ class Converter:
 		return self._fetchByIndex(0, store)
 			
 
-	def _fetchByIndex(self, index, store):	
+	def _fetchByIndex(self, index, store):
+		
 		for x in store: 
 			if x.idx == index:
 				return x
@@ -113,7 +114,9 @@ class Node:
 		self.children = children
 	
 	def get_child(self, deplabel):
-		"""return the child with the deplabel, if there is one; otherwise return None"""
+		"""return the child with the deplabel, if there is one; otherwise return None
+		   TODO: adapt if there is a need to access multiple children with the same label
+		"""
 		for c in self.children:
 			if c.dep_ == deplabel:
 				return c
@@ -250,14 +253,22 @@ class Node:
 	def detect_comparative(self):
 
 		than_node = self.find_nodes(text = 'than', dep_ = 'case')
+
+
 		if not than_node:
 			return False
 		else:
 			than_node = than_node[0]
 
+		
 		type_node = than_node.head.head
 
 		type_pos = type_node.pos_
+
+		if type_node.dep_ == 'root':
+			return True
+		elif not (type_node.head.pos_.startswith('VB') and type_node.dep_ == 'ccomp'):
+			return False
 		
 		#ADJECTIVAL
 		if type_pos == 'JJR' or (type_pos == 'JJ' and type_node.find_nodes(pos_ = ['RBR','JJR'], dep_ = 'advmod')):
@@ -324,13 +335,21 @@ class Node:
 		root_node.remove_dependent(ccomp)
 
 
-		if pp_than:		
+		if pp_than:
+			#prep = ':' + ccomp.dep_.split(':')[1]
+			
 			pp_nom = root_node.find_nodes(pos_ = 'IN')[0]
+
+			#pp_nom_dep = pp_nom.dep_
+			#dep = pp_nom.head.dep_
+
 			root_node.remove_dependent(pp_nom.head)
+			# more_node.add_dependent(pp_nom.head, dep)
 			more_node.add_dependent(pp_nom.head, 'Ccomp2')
 		else:
 			prep = ''
 
+		# more_node.add_dependent(ccomp, dep)
 		more_node.add_dependent(ccomp, 'Ccomp1')
 
 		return self
@@ -340,6 +359,7 @@ if __name__ == '__main__':
 	from optparse import OptionParser
 
 	clparser = OptionParser()
+	#clparser.add_option("-m", "--model", dest="model", help="which model to load (sm|md|lg)")
 	opts, args = clparser.parse_args()
 
 	f = open(args[0], 'r')
